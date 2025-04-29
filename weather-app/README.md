@@ -2,7 +2,7 @@
 
 A simple, elegant weather application that allows users to check current weather conditions for any city around the world. The app displays temperature, humidity, wind speed, and weather conditions with appropriate icons.
 
-![Weather App Screenshot](/images/app-complete.pdf "Weather App Screenshot")
+![Weather App Screenshot](/Weather-App/images/app-complete.pdf "Weather App Screenshot")
 
 ## Features
 
