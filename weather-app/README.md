@@ -2,7 +2,7 @@
 
 A simple, elegant weather application that allows users to check current weather conditions for any city around the world. The app displays temperature, humidity, wind speed, and weather conditions with appropriate icons.
 
-![Weather App Screenshot](https://via.placeholder.com/800x450.png?text=Weather+App+Screenshot)
+![Weather App Screenshot](/images/app-complete.pdf "Weather App Screenshot")
 
 ## Features
 
@@ -19,7 +19,7 @@ A simple, elegant weather application that allows users to check current weather
 1. Clone this repository or download the ZIP file:
 
 ```bash
-    git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/yourusername/weather-app.git
 ```
 
 2. Navigate to the project directory:

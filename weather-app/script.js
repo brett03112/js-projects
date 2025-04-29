@@ -1,5 +1,5 @@
 // API credentials and endpoint URL
-const apiKey = ""; // Replace with your WeatherAPI.com API key
+const apiKey = "YOUR_API_KEY"; // Replace with your WeatherAPI.com API key
 const apiUrl = "http://api.weatherapi.com/v1/current.json";
 
 // DOM element selectors for user interaction
