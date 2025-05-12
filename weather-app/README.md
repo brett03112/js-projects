@@ -16,19 +16,19 @@ A simple, elegant weather application that allows users to check current weather
 
 ## Installation
 
-1. Clone this repository or download the ZIP file:
+  **1.** Clone this repository or download the ZIP file:
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
-```
+   git clone https://github.com/yourusername/weather-app.git
+  ```
 
-2. Navigate to the project directory:
+  **2.** Navigate to the project directory:
 
 ```bash
-cd weather-app
+   cd weather-app
 ```
 
-3. Open `index.html` in your web browser to use the application.
+  **3.** Open `index.html` in your web browser to use the application.
 
 ## Getting Your Own API Key
 
